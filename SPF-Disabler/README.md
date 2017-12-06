@@ -29,6 +29,10 @@ Effectivly giving you a <strong>SPF-Free</strong> website, without breaking anyt
 <pre>
 Developer's HUB / Changelog
 
+1.2.3.1
++ using the "disable_polymer=1" on links and page-location.
++ limiting to youtube domains only.
+
 1.2.2.4
 + limit operation for text/html documents (ignore xml, rss, etc...)
 
