@@ -16,6 +16,7 @@
 <br/><a href="Enabler/"                     ><img alt="" width="32" height="32" src="Enabler/resources/icon.png"                     /> Enabler</a>
 <br/><a href="FileHippo-Direct/"            ><img alt="" width="32" height="32" src="FileHippo-Direct/resources/icon.png"            /> FileHippo-Direct</a>
 <br/><a href="FTP-Fix/"                     ><img alt="" width="32" height="32" src="FTP-Fix/resources/icon.png"                     /> FTP-Fix</a>
+<br/><a href="Gallery-Break/"               ><img alt="" width="32" height="32" src="Gallery-Break/resources/icon.png"               /> Gallery-Break</a>
 <br/><a href="GitHub-Download-List/"        ><img alt="" width="32" height="32" src="GitHub-Download-List/resources/icon.png"        /> GitHub-Download-List</a>
 <br/><a href="Google-URL-Select/"           ><img alt="" width="32" height="32" src="Google-URL-Select/resources/icon.png"           /> Google-URL-Select</a>
 <br/><a href="History-API-Disabler/"        ><img alt="" width="32" height="32" src="History-API-Disabler/resources/icon.png"        /> History-API-Disabler</a>
