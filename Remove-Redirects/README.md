@@ -18,6 +18,9 @@
 <pre>
 Developer's HUB / Changelog
 
+1.9.9.1
++ adding YouTube redirect links (mostly used in comments and video-descriptions.
+
 1.9.8.8
 + remove click tracking at nana10.co.il
 
