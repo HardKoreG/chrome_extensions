@@ -18,6 +18,9 @@
 <pre>
 Developer's HUB / Changelog
 
+1.9.9.3
++ adding another variation of the google redirect page '....google.com/url?q=..' .
+
 1.9.9.1
 + adding YouTube redirect links (mostly used in comments and video-descriptions.
 
