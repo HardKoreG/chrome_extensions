@@ -16,6 +16,13 @@ Will Work Everywhere! (eBay, Amazon, WordPress, Blogger,...)
 <pre>
 Developer's HUB / Changelog
 
+8.0.1.2
+* cleaning some CDN's non-sense syntax in final IMG URLs.
+
+8.0.1.1
++ add support for several cases of "div as img" when it uses "data-src" and "data-original-src" attributes.
+* split main code to two short cases of img/div as main containers.
+
 8.0.0.2
 * including generalized alternative/custom pagespeed functionality used in ebay.
 
