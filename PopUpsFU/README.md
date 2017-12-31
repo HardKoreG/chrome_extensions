@@ -8,6 +8,9 @@ You = Safe. Pop-Ups = 🖕︎!
 <pre>
 Developer's HUB / Changelog
 
+1.0.5.1
++ another ebay domain to exclude, used for script-loading-f*ck! :[
+
 1.0.4.8
 + excluding youtube since its new UI uses global listeners.
 
