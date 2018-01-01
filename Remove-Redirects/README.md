@@ -18,6 +18,9 @@
 <pre>
 Developer's HUB / Changelog
 
+1.9.9.4
++ removing inline-event click-tracking by WebTrends from links.
+
 1.9.9.3
 + adding another variation of the google redirect page '....google.com/url?q=..' .
 
