@@ -16,6 +16,9 @@ Will Work Everywhere! (eBay, Amazon, WordPress, Blogger,...)
 <pre>
 Developer's HUB / Changelog
 
+8.0.1.3
++ adding another variation of jQuery-lazy, common in video-galleries where the image hides under 'data-original' attribute.
+
 8.0.1.2
 * cleaning some CDN's non-sense syntax in final IMG URLs.
 
