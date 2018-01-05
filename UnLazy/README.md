@@ -16,6 +16,10 @@ Will Work Everywhere! (eBay, Amazon, WordPress, Blogger,...)
 <pre>
 Developer's HUB / Changelog
 
+8.0.1.4
++ adding flattening of "grid-images" (such in "nerdist.com" website) where the image is nesting with a lazy-loading (fallback is a loading-gif) with data-1x1 or data-2x2 attributes.
+* providing global fix for cross-origin http-https mistakes in websites.
+
 8.0.1.3
 + adding another variation of jQuery-lazy, common in video-galleries where the image hides under 'data-original' attribute.
 
