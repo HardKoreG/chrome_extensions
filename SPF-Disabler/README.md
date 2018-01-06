@@ -29,6 +29,15 @@ Effectivly giving you a <strong>SPF-Free</strong> website, without breaking anyt
 <pre>
 Developer's HUB / Changelog
 
+1.2.4.2
+* making the injected-code an internal function, - and then using it, as string for injection, this makes it available for execution through the Chrome-extension scope too.
++ engine need to use setInterval since SPF custom-events are not always captured by standard-event handlers, generic window listeners won't help...
+
+1.2.4.1
++ (re)adding hard-coded '_spf_state' and 'ytspf' rewrite to any self-window, hopfully to trigger fallback code (even objects were not existed) --- This is in additional to "discovering" a "SPF like" object in self-window anyway.
++ adding 'enabled=false' (and 'config.enabled=false') attributes, found in some old SPF engines online (that might still trigger fallback to regular browsing).
+* fixing some typos in string-replace without target + using multiline regex directive.
+
 1.2.3.1
 + using the "disable_polymer=1" on links and page-location.
 + limiting to youtube domains only.
