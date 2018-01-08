@@ -18,6 +18,9 @@
 <pre>
 Developer's HUB / Changelog
 
+1.9.9.5
++ removing generic affiliate programs.
+
 1.9.9.4
 + removing inline-event click-tracking by WebTrends from links.
 
