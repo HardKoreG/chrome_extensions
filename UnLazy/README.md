@@ -16,6 +16,15 @@ Will Work Everywhere! (eBay, Amazon, WordPress, Blogger,...)
 <pre>
 Developer's HUB / Changelog
 
+8.0.1.7
+* listening to 'yt-page-*' and 'yt-navigate-*' events for page-content changing.
+
+8.0.1.6
++ adding support for lazy-loading IMG-elements holding the real-image in 'data-echo' attribute, used in some online-carts pages.
+
+8.0.1.5
++ adding support for images with 'data-lazysrc' attributes used in custom lazy-loading solutions.
+
 8.0.1.4
 + adding flattening of "grid-images" (such in "nerdist.com" website) where the image is nesting with a lazy-loading (fallback is a loading-gif) with data-1x1 or data-2x2 attributes.
 * providing global fix for cross-origin http-https mistakes in websites.
