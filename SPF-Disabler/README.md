@@ -8,8 +8,48 @@ Disabling the SPF engine is quite easy,
 all you have to do it add <code>/spf.js</code> to your uBlock-origin adblock-list...
 
 <sub>read more about it in here: <a href="http://icompile.eladkarako.com/disable-youtube-spf/"><em>iCompile -</em> Disable YouTube SPF</a></sub>
-
 <h3>But <strong>DON'T!</strong></h3>
+
+<hr/>
+
+For YouTube, you can add those to UBlock-origin (under "my filters") reduce some common sh!t
+<pre>
+youtube.com/api/stats
+
+youtube.com/ptracking
+
+youtube.com/pagead
+
+google.com/pagead
+
+google.co.il/pagead
+
+youtube.com/youtubei/v1/log_event
+
+youtube.com/youtubei/v1/log_interaction
+
+google.com/uds/stats
+
+google.co.il/uds/stats
+
+youtube.com/csi_204
+
+youtube.com/player_204*pagead
+
+youtube.com/player_204*adunit
+
+/videogoodput
+
+youtube.com/get_midroll_info
+
+youtube.com/annotations_invideo*instream_ad
+
+yt1.ggpht.com/proxy
+
+yt2.ggpht.com/proxy
+
+yt3.ggpht.com/proxy
+</pre>
 
 many Google based websites do not have a proper fallback to standard-browsing anymore,
 leaving you with much of the functionality missing,
