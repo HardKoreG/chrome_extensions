@@ -69,6 +69,11 @@ Effectivly giving you a <strong>SPF-Free</strong> website, without breaking anyt
 <pre>
 Developer's HUB / Changelog
 
+1.2.5.1
+* moved polymer handling code to top of the method, so if there is a redirect at-hand, it would be done asap, without running the common-tasks of the extension (since there will be navigation to another page anyway...).
++ handling SPF and session classes in a generic-heuristic way (plus some SPF attributes- data-spf-name)
+* code reduced, noted and sectioned.
+
 1.2.4.5
 * removing interval (timeout) in favor of 'yt-page-*' and 'yt-navigate-*' event listenning.
 
