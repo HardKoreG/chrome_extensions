@@ -69,6 +69,14 @@ Effectivly giving you a <strong>SPF-Free</strong> website, without breaking anyt
 <pre>
 Developer's HUB / Changelog
 
+1.2.5.3
++ adding "self.yt" to the known pre-set configuration-containers.
++ "config_" sub-key for each of the configuration containers.
++ reducing hooking-event on document in favor of window/self - for event that do permeates/bubble up to window.
+
+1.2.5.2
++ running main logic on resize/transitionend/visibilitychange DOM-events which is commonly used in YouTube's material-design, this helps fixing "new links" that are added when clicking "Load more" button.
+
 1.2.5.1
 * moved polymer handling code to top of the method, so if there is a redirect at-hand, it would be done asap, without running the common-tasks of the extension (since there will be navigation to another page anyway...).
 + handling SPF and session classes in a generic-heuristic way (plus some SPF attributes- data-spf-name)
