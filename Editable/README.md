@@ -21,6 +21,9 @@ This is also makes especially easy to edit Unicode/UTF-8 content since browsers 
 <pre>
 Developer's HUB / Changelog
 
+8.0.1.4
+* adding containers used for simple-code highlight in 'ss64.com'.
+
 8.0.1.3
 * Google-translate easier copy of the result.
 
