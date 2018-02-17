@@ -21,6 +21,9 @@ This is also makes especially easy to edit Unicode/UTF-8 content since browsers 
 <pre>
 Developer's HUB / Changelog
 
+8.0.1.5
+* adding 'span' with class 'pre' for code-areas in pypi.python.org .
+
 8.0.1.4
 * adding containers used for simple-code highlight in 'ss64.com'.
 
