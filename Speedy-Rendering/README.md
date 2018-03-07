@@ -32,6 +32,12 @@ Known issues, or more like an undesired side-effects
 Developer's HUB / Changelog
 
 
+2.0.4.1
+* keeping webkit and standard attributes only.
+* updating the font-advanced-typographics list to disable.
+* including generic-page-fix (explicit size and overflow) for faster scroll.
+* re-order definitions, with alignments and improved comments.
+
 2.0.3.5
 - removed normalizer code, favoring overriding anyway...
 + adding another prefix (to make thing generic for copy paste, really just for me...)
