@@ -32,6 +32,9 @@ Known issues, or more like an undesired side-effects
 Developer's HUB / Changelog
 
 
+2.0.4.2
+* un-'box-shadow' from everything.
+
 2.0.4.1
 * keeping webkit and standard attributes only.
 * updating the font-advanced-typographics list to disable.
