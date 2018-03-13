@@ -18,6 +18,16 @@
 <pre>
 Developer's HUB / Changelog
 
+1.9.9.8
+* not using mutation-observing anymore
+* no-longer handling '[data-href]' since some pages uses them for other stuff.
+
+1.9.9.7
+* observing DOM-changes more closely.
+
+1.9.9.6
++ simplifying/flattening non-hyper-link elements with data-href to a simple A element.
+
 1.9.9.5
 + removing generic affiliate programs.
 

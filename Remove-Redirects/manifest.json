@@ -6,8 +6,8 @@
 , "short_name"              : "__MSG_name_shrt__"
 , "description"             : "__MSG_name_desc__"
 
-, "version"                 : "1.9.9.5"
-, "homepage_url"            : "https://github.com/eladkarako/Chrome-Extension-Remove-Redirects/"
+, "version"                 : "1.9.9.8"
+, "homepage_url"            : "https://github.com/eladkarako/chrome_extensions/Remove-Redirects/"
 , "author"                  : "Elad Karako"
 
 , "offline_enabled"         : true
