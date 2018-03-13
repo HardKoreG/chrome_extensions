@@ -32,6 +32,13 @@ Known issues, or more like an undesired side-effects
 Developer's HUB / Changelog
 
 
+2.0.4.4
++ zero-duration animation, meaning no-animation, making everything to react faster.
+
+2.0.4.3
+* improving hover/active/focus states too since some rules are more commonly applied to them.
++ speed up by clearing up filters.
+
 2.0.4.2
 * un-'box-shadow' from everything.
 
