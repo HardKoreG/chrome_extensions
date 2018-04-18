@@ -1,4 +1,4 @@
-<h1>chrome_extensions - &nbsp; &nbsp; <a href="https://paypal.me/e1adkarak0"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal Donation"></a></h1>
+<h1>chrome_extensions - &nbsp; &nbsp; <a href="https://paypal.me/e1adkarak0" ok><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal Donation" ok></a></h1>
 
 <br/><a href="012MobileLoader/"             ><img alt="" width="32" height="32" src="012MobileLoader/resources/icon.png"             /> 012MobileLoader</a>
 <br/><a href="AndroidFileHost-Fix/"         ><img alt="" width="32" height="32" src="AndroidFileHost-Fix/resources/icon.png"         /> AndroidFileHost-Fix</a>
@@ -11,6 +11,7 @@
 <br/><a href="CSS-Image/"                   ><img alt="" width="32" height="32" src="CSS-Image/resources/icon.png"                   /> CSS-Image</a>
 <br/><a href="eBay-Boxed/"                  ><img alt="" width="32" height="32" src="eBay-Boxed/resources/icon.png"                  /> eBay-Boxed</a>
 <br/><a href="eBay-Top-Pagination/"         ><img alt="" width="32" height="32" src="eBay-Top-Pagination/resources/icon.png"         /> eBay-Top-Pagination</a>
+<br/><a href="eBay-UnPromote/"              ><img alt="" width="32" height="32" src="eBay-UnPromote/resources/icon.png"              /> eBay-UnPromote</a>
 <br/><a href="Editable/"                    ><img alt="" width="32" height="32" src="Editable/resources/icon.png"                    /> Editable</a>
 <br/><a href="Ellipsis-Fix/"                ><img alt="" width="32" height="32" src="Ellipsis-Fix/resources/icon.png"                /> Ellipsis-Fix</a>
 <br/><a href="Enabler/"                     ><img alt="" width="32" height="32" src="Enabler/resources/icon.png"                     /> Enabler</a>
@@ -21,6 +22,7 @@
 <br/><a href="Google-URL-Select/"           ><img alt="" width="32" height="32" src="Google-URL-Select/resources/icon.png"           /> Google-URL-Select</a>
 <br/><a href="History-API-Disabler/"        ><img alt="" width="32" height="32" src="History-API-Disabler/resources/icon.png"        /> History-API-Disabler</a>
 <br/><a href="HTTPS-Fix/"                   ><img alt="" width="32" height="32" src="HTTPS-Fix/resources/icon.png"                   /> HTTPS-Fix</a>
+<br/><a href="IndexedDB-Killer/"            ><img alt="" width="32" height="32" src="IndexedDB-Killer/resources/icon.png"            /> IndexedDB-Killer</a>
 <br/><a href="Link-Decrypt/"                ><img alt="" width="32" height="32" src="Link-Decrypt/resources/icon.png"                /> Link-Decrypt</a>
 <br/><a href="Link-Style-Basic/"            ><img alt="" width="32" height="32" src="Link-Style-Basic/resources/icon.png"            /> Link-Style-Basic</a>
 <br/><a href="MediaFire-Direct/"            ><img alt="" width="32" height="32" src="MediaFire-Direct/resources/icon.png"            /> MediaFire-Direct</a>
@@ -50,3 +52,6 @@
 <hr/>
 
 <br/><a href="_res.7z"                      >_res.7z</a>
+
+<br/>
+<a href="https://github.com/eladkarako/partial-download-github-repository">How To Download A Single Folder?</a>
