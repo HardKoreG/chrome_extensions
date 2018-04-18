@@ -15,6 +15,16 @@ for example: <a href="https://www.google.com/search?num=50&gbv=1&q=site%3Afilehi
 Developer's HUB / Changelog
 
 
+3.0.0.2
+* restyle button with simpler quicker to render style.
+* simplified code - unique URLs checking area.
+* process by element-found - so element is available for gathering information such as original URL and original inner-text.
+
+3.0.0.1
+* engine simplified.
++ making sure URLs are unique, both on elemement-query and after resolving to direct-URL, so there will be truly one-link/per-url.
+
+
 2.0.0.2
 * put download button above other layers.
 
