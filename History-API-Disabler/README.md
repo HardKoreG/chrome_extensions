@@ -12,6 +12,12 @@ For Disabling SPF, JS-Navigation and other dynamic page loading that uses the Hi
 <pre>
 Developer's HUB / Changelog
 
+1.0.3.6
+* optimize code for a reduced in-memory-footprint.
+
+1.0.3.5
+* limiting to html pages (not XML ones, for example).
+
 1.0.3.4
 + inject script, has content set by inner-html instead of a text-node child which won't work in early loading stages (before body loads..).
 * trying to delete references first (of history-related objects).
