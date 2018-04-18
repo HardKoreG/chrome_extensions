@@ -16,6 +16,9 @@ Will Work Everywhere! (eBay, Amazon, WordPress, Blogger,...)
 <pre>
 Developer's HUB / Changelog
 
+8.0.2.1
+* observing DOM-changes more closely, in addition to existing ways.
+
 8.0.1.7
 * listening to 'yt-page-*' and 'yt-navigate-*' events for page-content changing.
 
