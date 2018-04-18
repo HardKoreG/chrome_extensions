@@ -18,6 +18,9 @@
 <pre>
 Developer's HUB / Changelog
 
+1.9.9.9
++ adding patterns to remove several kinds-of redirects from OpenSubtitles website.
+
 1.9.9.8
 * not using mutation-observing anymore
 * no-longer handling '[data-href]' since some pages uses them for other stuff.
