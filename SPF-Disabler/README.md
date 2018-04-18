@@ -69,6 +69,9 @@ Effectivly giving you a <strong>SPF-Free</strong> website, without breaking anyt
 <pre>
 Developer's HUB / Changelog
 
+1.2.6.1
+* observing DOM changes more closely.
+
 1.2.5.3
 + adding "self.yt" to the known pre-set configuration-containers.
 + "config_" sub-key for each of the configuration containers.
