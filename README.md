@@ -9,6 +9,7 @@
 <br/><a href="Boostaler/"                   ><img alt="" width="32" height="32" src="Boostaler/resources/icon.png"                   /> Boostaler</a>
 <br/><a href="CORS/"                        ><img alt="" width="32" height="32" src="CORS/resources/icon.png"                        /> CORS</a>
 <br/><a href="CSS-Image/"                   ><img alt="" width="32" height="32" src="CSS-Image/resources/icon.png"                   /> CSS-Image</a>
+<br/><a href="DownloadCNET-Direct/"         ><img alt="" width="32" height="32" src="DownloadCNET-Direct/resources/icon.png"         /> DownloadCNET-Direct</a>
 <br/><a href="eBay-Boxed/"                  ><img alt="" width="32" height="32" src="eBay-Boxed/resources/icon.png"                  /> eBay-Boxed</a>
 <br/><a href="eBay-Top-Pagination/"         ><img alt="" width="32" height="32" src="eBay-Top-Pagination/resources/icon.png"         /> eBay-Top-Pagination</a>
 <br/><a href="eBay-UnPromote/"              ><img alt="" width="32" height="32" src="eBay-UnPromote/resources/icon.png"              /> eBay-UnPromote</a>
