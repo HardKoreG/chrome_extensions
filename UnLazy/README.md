@@ -16,6 +16,9 @@ Will Work Everywhere! (eBay, Amazon, WordPress, Blogger,...)
 <pre>
 Developer's HUB / Changelog
 
+8.0.2.2
++ adding support of PICTURE-SOURCE as used in several blogs (lifehacker uses it).
+
 8.0.2.1
 * observing DOM-changes more closely, in addition to existing ways.
 
