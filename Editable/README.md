@@ -21,6 +21,9 @@ This is also makes especially easy to edit Unicode/UTF-8 content since browsers 
 <pre>
 Developer's HUB / Changelog
 
+8.0.1.6
+* adding a 'code container' that uses 'dd > kbd' (not standard nor best practice..)- for example in bugmenot.com .
+
 8.0.1.5
 * adding 'span' with class 'pre' for code-areas in pypi.python.org .
 
