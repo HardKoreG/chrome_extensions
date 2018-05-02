@@ -18,6 +18,10 @@
 <pre>
 Developer's HUB / Changelog
 
+1.9.9.91
++ adding variation to redirect-links in YouTube.
++ (re)adding timed-out execution (every 300ms).
+
 1.9.9.9
 + adding patterns to remove several kinds-of redirects from OpenSubtitles website.
 
