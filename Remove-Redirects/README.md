@@ -18,6 +18,17 @@
 <pre>
 Developer's HUB / Changelog
 
+1.9.9.93
+* improving element-discovery for PHP "Out"-plugin.
+* pre-define a per element method to improve stack-memory usage.
+* changing call-priority to first handle Google-related redirects.
+* making some flow-designs of removing inline-events more explicit in decision-tree.
+* placing repeating-timeout at the end of the main-action, instead of repeat-interval to linearise the repeating process.
+* improving DOM-stage ready-based element re-discovery.
+
+1.9.9.92
++ adding support for eBay tracking/analytics/redirect-links, usually used in emails (a.k.a "rover-service").
+
 1.9.9.91
 + adding variation to redirect-links in YouTube.
 + (re)adding timed-out execution (every 300ms).
