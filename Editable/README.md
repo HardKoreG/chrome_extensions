@@ -21,6 +21,10 @@ This is also makes especially easy to edit Unicode/UTF-8 content since browsers 
 <pre>
 Developer's HUB / Changelog
 
+8.0.1.8
+* avoid nested-'editable' elements.
+* engine tweaks.
+
 8.0.1.7
 * adding for some comment-containers in some file-sharing websites.
 
