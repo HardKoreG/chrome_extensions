@@ -24,6 +24,9 @@
 <pre>
 Developer's HUB / Changelog
 
+1.0.1.2
+* engine enhance for better compatibility (old background attribute overrides background-clip/background-origin) and adding unit-of-measure when needed.
+
 1.0.1.1
 + semi-transparent border.
 * improved handling existing styles.
