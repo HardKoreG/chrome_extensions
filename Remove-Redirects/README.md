@@ -18,6 +18,9 @@
 <pre>
 Developer's HUB / Changelog
 
+1.9.9.94
+* remove some analytics-related attributes used in GitHub.
+
 1.9.9.93
 * improving element-discovery for PHP "Out"-plugin.
 * pre-define a per element method to improve stack-memory usage.
