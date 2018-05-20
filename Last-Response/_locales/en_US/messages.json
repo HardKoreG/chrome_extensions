@@ -1,0 +1,4 @@
+{ "name_shrt":    {"message":   "LastResponse" }
+, "name_long":    {"message":   "Last-Response" }
+, "name_desc":    {"message":   "★★★★★ Original Page-Response, Including All HTTP-Headers." }
+}
