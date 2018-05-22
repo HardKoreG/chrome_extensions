@@ -18,6 +18,9 @@
 <pre>
 Developer's HUB / Changelog
 
+1.9.9.95
++ making iframe-links in eBay open like a normal-links.
+
 1.9.9.94
 * remove some analytics-related attributes used in GitHub.
 
