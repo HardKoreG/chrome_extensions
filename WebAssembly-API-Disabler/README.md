@@ -2,6 +2,10 @@
 
 <h3><em>★★★★★ Disable's HTML5's WebAssembly API.</em></h3>
 
+also, you can pass the following command-line arguments:
+<code>--disable-features="WebAssembly,AsmJsToWebAssembly"</code>, <code>--js-flags="--noexpose-wasm"</code>.
+
+
 <img width="0" height="0" src="resources/screenshot_1.png"/>
 
 <hr/>
