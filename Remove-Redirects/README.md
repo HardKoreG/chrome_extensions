@@ -18,6 +18,9 @@
 <pre>
 Developer's HUB / Changelog
 
+1.9.9.961
++ decoding 'safelinkconverter/safelinkview' redirect-links.
+
 1.9.9.95
 + making iframe-links in eBay open like a normal-links.
 
