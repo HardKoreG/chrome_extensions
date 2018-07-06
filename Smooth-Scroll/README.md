@@ -4,8 +4,10 @@
 
 Force pages to use <strong>smooth</strong>, momentum and GPU-assisted scroll. <br/>
 
-You <strong>may want to enable</strong> smooth-scroll with browser's <code>chrome://flags/#smooth-scrolling</code> and command-line: <code>--enable-smooth-scrolling</code>, <br/>
-optionally also use <code>--enable-low-res-tiling</code> to allow fast-scrolling <br/>
+You better <strong>disable</strong> Chrome's internal smooth-scroll engine, <br/>
+with <code>chrome://flags/#smooth-scrolling</code> set to disabled or adding the command-line argument: <code>--disable-smooth-scrolling</code>.<br/>
+When smooth-scroll is page-handled (DOM/CSS) it works better then with Chrome-native engine.
+Also, optionally use <code>--enable-low-res-tiling</code> to allow fast-scrolling <br/>
 without the need to fully render content that has scrolled-out of the screen.<br/>
 
 But you don't have too. To save some rendering memory I actually turned all the smooth related flags OFF, 
