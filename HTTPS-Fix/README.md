@@ -15,7 +15,10 @@ Then it fixes the URL so it won't raise an error in your browser,
 <pre>
 Developer's HUB / Changelog
 
-1.0.0.1
+1.0.0.3
+* simplified engine and item discovery.
+
+1.0.0.2
 + initial
 </pre>
 
