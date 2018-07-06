@@ -39,6 +39,7 @@
 <br/><a href="Real-URL/"                    ><img alt="" width="32" height="32" src="Real-URL/resources/icon.png"                    /> Real-URL</a>
 <br/><a href="Redundant-Click/"             ><img alt="" width="32" height="32" src="Redundant-Click/resources/icon.png"             /> Redundant-Click</a>
 <br/><a href="Remove-Redirects/"            ><img alt="" width="32" height="32" src="Remove-Redirects/resources/icon.png"            /> Remove-Redirects</a>
+<br/><a href="Smooth-Scroll/"               ><img alt="" width="32" height="32" src="Smooth-Scroll/resources/icon.png"               /> Smooth-Scroll</a>
 <br/><a href="Socket-Killer/"               ><img alt="" width="32" height="32" src="Socket-Killer/resources/icon.png"               /> Socket-Killer</a>
 <br/><a href="SourceForge-Direct/"          ><img alt="" width="32" height="32" src="SourceForge-Direct/resources/icon.png"          /> SourceForge-Direct</a>
 <br/><a href="Speedy-Rendering/"            ><img alt="" width="32" height="32" src="Speedy-Rendering/resources/icon.png"            /> Speedy-Rendering</a>
