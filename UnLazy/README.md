@@ -16,6 +16,9 @@ Will Work Everywhere! (eBay, Amazon, WordPress, Blogger,...)
 <pre>
 Developer's HUB / Changelog
 
+8.0.2.3
+* small fix for eBay new page-structure with img/src (1x1pixel)/data-src (real image).
+
 8.0.2.2
 + adding support of PICTURE-SOURCE as used in several blogs (lifehacker uses it).
 
