@@ -5,6 +5,7 @@
 <br/><a href="APK-S-Direct/"                ><img alt="" width="32" height="32" src="APK-S-Direct/resources/icon.png"                /> APK-S-Direct</a>
 <br/><a href="AriaFix/"                     ><img alt="" width="32" height="32" src="AriaFix/resources/icon.png"                     /> AriaFix</a>
 <br/><a href="AutoComplete-Enabler/"        ><img alt="" width="32" height="32" src="AutoComplete-Enabler/resources/icon.png"        /> AutoComplete-Enabler</a>
+<br/><a href="Beacon-Ping-Killer/"          ><img alt="" width="32" height="32" src="Beacon-Ping-Killer/resources/icon.png"          /> Beacon-Ping-Killer</a>
 <br/><a href="Behind-The-Asterisks/"        ><img alt="" width="32" height="32" src="Behind-The-Asterisks/resources/icon.png"        /> Behind-The-Asterisks</a>
 <br/><a href="Boostaler/"                   ><img alt="" width="32" height="32" src="Boostaler/resources/icon.png"                   /> Boostaler</a>
 <br/><a href="CORS/"                        ><img alt="" width="32" height="32" src="CORS/resources/icon.png"                        /> CORS</a>
