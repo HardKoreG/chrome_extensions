@@ -20,6 +20,16 @@ This extension <strong>will fix</strong> most of your scroll-issues, including t
 <pre>
 Developer's HUB / Changelog
 
+1.0.1.4
+* pre-caching HTML scroll-position (CSS only).
+* minifying core-actions, removed style-related rules.
+
+1.0.1.3
+* modify engine to scroll just the block-level elements + html + body ( https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements ), this will help with link-clicking issues.
+
+1.0.1.2
+* use just the start stylesheet.
+
 1.0.1.1
 + initial.
 </pre>
