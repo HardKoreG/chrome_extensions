@@ -16,6 +16,9 @@ Will Work Everywhere! (eBay, Amazon, WordPress, Blogger,...)
 <pre>
 Developer's HUB / Changelog
 
+8.0.2.4
+* adding support for custom lazy-loading used in thinkgeek-website.
+
 8.0.2.3
 * small fix for eBay new page-structure with img/src (1x1pixel)/data-src (real image).
 
