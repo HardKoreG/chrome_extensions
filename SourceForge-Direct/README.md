@@ -20,6 +20,12 @@ since it will you whatever download-mirror either you, (or SourceForge set for y
 <pre>
 Developer's HUB / Changelog
 
+2.0.3.4
+* improved engine with some speed shortcuts, and updating directly the download-links each time.
+* improved-querying for the 'refresh after 5 seconds' element instead of on-page download-link.
++ explicit-fix URL for HTTPS, plus proper handling in-URL entity-encoding using native-parser.. .
++ adding verbose status on attribute for first/second improved result.
+
 2.0.3.3
 * improved result by resolving 302-redirects (from "waiting-screen") to final target URL.
 
