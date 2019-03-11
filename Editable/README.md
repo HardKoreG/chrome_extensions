@@ -21,6 +21,9 @@ This is also makes especially easy to edit Unicode/UTF-8 content since browsers 
 <pre>
 Developer's HUB / Changelog
 
+8.0.1.10
++ adding cross-browser attributes to the manifest.
+
 8.0.1.9
 * allow old-school fix for Mozilla/Firefox based browsers that (even if) (-moz-)user-modify is specified the CTRL+A still won't work, the workaround is to use 'contentEditable="true"' HTML-attribute.
 
