@@ -9,6 +9,9 @@
 <pre>
 Developer's HUB / Changelog
 
+1.0.1.5
+* improving cross-browser-API compatibility.
+
 1.0.1.4
 * only format a "looks like a link" links.
 + include '...' variation.

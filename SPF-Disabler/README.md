@@ -69,6 +69,9 @@ Effectivly giving you a <strong>SPF-Free</strong> website, without breaking anyt
 <pre>
 Developer's HUB / Changelog
 
+1.2.6.2
+* improving cross-browser-API compatibility.
+
 1.2.6.1
 * observing DOM changes more closely.
 

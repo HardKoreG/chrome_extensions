@@ -15,6 +15,9 @@ for example: <a href="https://www.google.com/search?num=50&gbv=1&q=site%3Afilehi
 Developer's HUB / Changelog
 
 
+1.0.0.5
+* improving cross-browser-API compatibility.
+
 1.0.0.4
 + initial
 </pre>

@@ -18,6 +18,9 @@ Here are good example-pages to see how it works
 <pre>
 Developer's HUB / Changelog
 
+3.0.2.4
+* improving cross-browser-API compatibility.
+
 3.0.2.3
 + dynamic page support.
 

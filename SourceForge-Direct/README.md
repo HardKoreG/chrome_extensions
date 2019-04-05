@@ -20,6 +20,9 @@ since it will you whatever download-mirror either you, (or SourceForge set for y
 <pre>
 Developer's HUB / Changelog
 
+2.0.3.5
+* improving cross-browser-API compatibility.
+
 2.0.3.4
 * improved engine with some speed shortcuts, and updating directly the download-links each time.
 * improved-querying for the 'refresh after 5 seconds' element instead of on-page download-link.

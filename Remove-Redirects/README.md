@@ -18,6 +18,15 @@
 <pre>
 Developer's HUB / Changelog
 
+1.9.9.964
+* improving cross-browser-API compatibility.
+
+1.9.9.963
++ cleaning 'spot.im' redirect-links in cases where the link element has 'data-original-href' attribute (not extracting from current-href).
+
+1.9.9.962
++ adding support for urls with 'redir=http...' in it such as in GoDaddy-emails.
+
 1.9.9.961
 + decoding 'safelinkconverter/safelinkview' redirect-links.
 

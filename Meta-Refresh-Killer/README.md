@@ -73,6 +73,9 @@ github.com/eladkarako/Chrome-Extension-Meta-Refresh-Killer
 <pre>
 Developer's HUB / Changelog
 
+3.1.1.9
+* improving cross-browser-API compatibility.
+
 3.1.1.8
 * improving clean-up of the current DOM, unloading as much objects from the global-scope as possible, before loading the "no-redirects" modified HTML, this helps to prevent double objects, when loading SCRIPT elements again... :]
 

@@ -5,6 +5,9 @@
 <pre>
 Developer's HUB / Changelog
 
+1.0.0.6
+* improving cross-browser-API compatibility.
+
 1.0.0.5
 * limit operation for 'eBay.com' domain(s).
 

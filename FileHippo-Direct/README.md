@@ -15,6 +15,9 @@ for example: <a href="https://www.google.com/search?num=50&gbv=1&q=site%3Afilehi
 Developer's HUB / Changelog
 
 
+3.0.0.3
+* improving cross-browser-API compatibility.
+
 3.0.0.2
 * restyle button with simpler quicker to render style.
 * simplified code - unique URLs checking area.

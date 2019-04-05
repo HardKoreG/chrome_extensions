@@ -16,6 +16,12 @@ Will Work Everywhere! (eBay, Amazon, WordPress, Blogger,...)
 <pre>
 Developer's HUB / Changelog
 
+8.0.2.6
+* improving cross-browser-API compatibility.
+
+8.0.2.5
+* adding support for simple 'data-url' to replace 'src'.
+
 8.0.2.4
 * adding support for custom lazy-loading used in thinkgeek-website.
 

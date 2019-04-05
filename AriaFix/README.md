@@ -20,6 +20,9 @@ A better alternative is to use the input-<code>placeholder</code> attribute.
 <pre>
 Developer's HUB / Changelog
 
+1.0.2.5
+* improving cross-browser-API compatibility.
+
 1.0.2.4
 * improved walked through engine (two fixes per walk through + count).
 

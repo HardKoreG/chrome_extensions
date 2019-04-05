@@ -10,6 +10,9 @@
 <pre>
 Developer's HUB / Changelog
 
+2.0.0.5
+* improving cross-browser-API compatibility.
+
 2.0.0.4
 * try/catch around resource extraction since adaptive/standard are not always there...
 

@@ -9,6 +9,9 @@ But you can always install <a href="https://github.com/eladkarako/Chrome-Extensi
 <pre>
 Developer's HUB / Changelog
 
+1.0.0.3
+* improving cross-browser-API compatibility.
+
 1.0.0.2
 + initial (won't work nice with GitHub's version-of-SPF, user have to hard-refresh).
 </pre>

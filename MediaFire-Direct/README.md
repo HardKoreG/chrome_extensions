@@ -12,6 +12,9 @@ and you can keep your privacy and avoid pop-ups and ads!
 <pre>
 Developer's HUB / Changelog
 
+1.0.0.2
+* improving cross-browser-API compatibility.
+
 1.0.0.1
 + initial.
 </pre>

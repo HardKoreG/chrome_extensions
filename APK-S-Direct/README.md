@@ -25,6 +25,9 @@ you can use <a href="https://apkpure.com/">apkpure.com</a> which has a slightly 
 Developer's HUB / Changelog
 
 
+3.0.0.4
+* improving cross-browser-API compatibility.
+
 3.0.0.3
 * use final URL to APK file "as is" - don't force HTTPS protocol since some times their SSL CDN is down...
 

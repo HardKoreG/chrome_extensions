@@ -19,6 +19,9 @@ and the request-type "other" triggers the rule-blocking too.
 <pre>
 Developer's HUB / Changelog
 
+1.0.0.4
+* improving cross-browser-API compatibility.
+
 1.0.0.3
 + initial.
 </pre>

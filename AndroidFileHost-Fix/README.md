@@ -7,6 +7,9 @@
 <pre>
 Developer's HUB / Changelog
 
+1.0.0.8
+* improving cross-browser-API compatibility.
+
 1.0.0.7
 * support for about:blank frames.
 + explicit apply actions only for text/html pages.

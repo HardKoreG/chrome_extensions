@@ -7,6 +7,9 @@
 <pre>
 Developer's HUB / Changelog
 
+3.0.1.3
+* improving cross-browser-API compatibility.
+
 3.0.1.2
 * limit operation to very early stages of the page-loading, in-order to prevent hard-reflow to re-rendering :/
 

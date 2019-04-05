@@ -12,6 +12,9 @@
 <pre>
 Developer's HUB / Changelog
 
+2.0.0.3
+* improving cross-browser-API compatibility.
+
 2.0.0.2
 + adding additional header to expose and allow.
 

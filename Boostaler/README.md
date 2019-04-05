@@ -24,6 +24,9 @@ stale in <code>Cache-Control</code> header: <a href="https://tools.ietf.org/html
 <pre>
 Developer's HUB / Changelog
 
+2.0.9.2
+* improving cross-browser-API compatibility.
+
 2.0.9.1
 + updating list-of-available, cache'able elements to Chrome's max value according to https://developer.chrome.com/extensions/webRequest , which adds media :]
 * improving caching-system, enabling cache for everything (tryout...)

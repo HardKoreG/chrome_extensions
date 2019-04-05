@@ -14,6 +14,9 @@ Visual Tweaks For XDA-Developers' Forums.
 <pre>
 Developer's HUB / Changelog
 
+3.0.2.2
+* improving cross-browser-API compatibility.
+
 3.0.2.1
 * improved background counter efficiency.
 

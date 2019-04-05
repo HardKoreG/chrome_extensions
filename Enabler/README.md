@@ -30,6 +30,9 @@
 <pre>
 Developer's HUB / Changelog
 
+3.0.2.10
+* improving cross-browser-API compatibility.
+
 3.0.2.9
 * updating html/body overflow for better visibility.
 

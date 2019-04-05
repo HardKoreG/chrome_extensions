@@ -11,6 +11,9 @@ ammm.... why not!
 Developer's HUB / Changelog
 
 
+2.0.0.10
+* improving cross-browser-API compatibility.
+
 2.0.0.9
 * set minimum of 3 images on the page, otherwise the page will not be handled.
 

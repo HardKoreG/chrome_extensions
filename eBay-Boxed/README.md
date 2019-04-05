@@ -29,6 +29,9 @@ Or even report a bug or suggest an improvement at https://github.com/eladkarako/
 <pre>
 Developer's HUB / Changelog
 
+1.0.2.3
+* improving cross-browser-API compatibility.
+
 1.0.2.2
 + added support for Chrome's idle state.
 - reduce package size.

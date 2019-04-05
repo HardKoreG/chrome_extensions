@@ -29,6 +29,9 @@
 <pre>
 Developer's HUB / Changelog
 
+1.0.2.7
+* improving cross-browser-API compatibility.
+
 1.0.2.6
 * explicit apply changes only for text/html pages.
 + adding support for about:blank pages.
