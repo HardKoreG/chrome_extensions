@@ -15,6 +15,9 @@ for example: <a href="https://www.google.com/search?num=50&gbv=1&q=site%3Afilehi
 Developer's HUB / Changelog
 
 
+3.0.0.4
+* improving cross-browser-CSS vendor-specific rules.
+
 3.0.0.3
 * improving cross-browser-API compatibility.
 
