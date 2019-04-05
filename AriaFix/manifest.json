@@ -2,8 +2,7 @@
 , "minimum_chrome_version"  : "28.0"
 
 , "browser_specific_settings" : { "gecko":{ "id"                 : "ariafix@eladkarako.com"
-                                          , "strict_min_version" : "42.0"
-                                          , "strict_max_version" : "80.0"
+                                          , "strict_min_version" : "57.0"
                                           }
                                  ,"edge": { "browser_action_next_to_addressbar" : true
                                           }
