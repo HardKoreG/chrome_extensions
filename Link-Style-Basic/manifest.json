@@ -4,8 +4,6 @@
 , "browser_specific_settings" : { "gecko":{ "id"                 : "link-style-basic@eladkarako.com"
                                           , "strict_min_version" : "57.0"
                                           }
-                                 ,"edge": { "browser_action_next_to_addressbar" : true
-                                          }
                                 }
 
 , "default_locale"          : "en_US"
