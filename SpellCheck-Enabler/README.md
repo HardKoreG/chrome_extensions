@@ -47,7 +47,7 @@ to your command-line for <code>chrome.exe</code>.
 <pre>
 Developer's HUB / Changelog
 
-5.0.3.5
+5.0.3.6
 * improving cross-browser-API compatibility.
 
 5.0.3.4
