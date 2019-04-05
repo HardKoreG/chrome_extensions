@@ -32,6 +32,9 @@ Known issues, or more like an undesired side-effects
 Developer's HUB / Changelog
 
 
+2.0.4.5
++ add vendor-specific variations to the CSS rules.
+
 2.0.4.4
 + zero-duration animation, meaning no-animation, making everything to react faster.
 
