@@ -20,6 +20,9 @@ This extension <strong>will fix</strong> most of your scroll-issues, including t
 <pre>
 Developer's HUB / Changelog
 
+1.0.1.5
++ include vendor-specific variations to the CSS-rules.
+
 1.0.1.4
 * pre-caching HTML scroll-position (CSS only).
 * minifying core-actions, removed style-related rules.
