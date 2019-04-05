@@ -12,6 +12,10 @@ Then it fixes the URL so it won't raise an error in your browser,
 
 <h3>This Extension Is A Great Work Enhancer!</h3>
 
+<hr/>
+
+To-Do: add a ""server-side"" (meaning extension, but not client-side) blocking of all HTTP resources loading, based on "entry point" of the HTTP<strong>S</strong> page (filter can be something like <code>"https://*"</code>).
+
 <pre>
 Developer's HUB / Changelog
 
