@@ -21,6 +21,9 @@ This is also makes especially easy to edit Unicode/UTF-8 content since browsers 
 <pre>
 Developer's HUB / Changelog
 
+8.0.1.12
++ adding older HTML tags: KBD, SAMP and TT (TT is used in https://trac.ffmpeg.org/wiki)
+
 8.0.1.11
 * improving cross-browser-API compatibility.
 
