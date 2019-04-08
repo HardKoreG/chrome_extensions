@@ -1,4 +1,4 @@
-<h1><img src="resources/icon.png" height="64" width="64"/> Chrome-Extension-SPF-Disabler</h1>
+<h1><img src="resources/icon.png" height="64" width="64"/> SPF-Killer</h1>
 
 <h3><em>★★★★★ Back To Standard Browsing! ꗷ︎</em></h3>
 
