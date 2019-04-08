@@ -32,7 +32,7 @@
                               , {"js":  [ "resources/at_document_idle.js"   ], "all_frames": true, "match_about_blank": true, "matches": [ "http://pandora.com/*","https://pandora.com/*","http://www.pandora.com/*","https://www.pandora.com/*" ], "run_at": "document_idle"  }
                               ]
 ,"web_accessible_resources" : [ "resources/*.*"]
-,"icons"                    : { "64": "resources/icon.png" }
+,"icons"                    : { "512": "resources/icon.png" }
 ,"browser_action"           : {
                               }
 }
