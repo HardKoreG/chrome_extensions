@@ -2,9 +2,10 @@
 
 <h2>★★★★★ Replace Ellipsis Ending Links (\"…\") With Full Ones.</h2>
 
-<img alt="" src="resources/screenshot_1.png"/>
-
-<img alt="" src="resources/screenshot_2.png"/>
+<img alt="" src="resources/screenshot_1.png"/> <br/>
+<img alt="" src="resources/screenshot_2.png"/> <br/>
+<img alt="" src="resources/screenshot_3.png"/> <br/>
+<img alt="" src="resources/screenshot_4.png"/> <br/>
 
 <pre>
 Developer's HUB / Changelog
