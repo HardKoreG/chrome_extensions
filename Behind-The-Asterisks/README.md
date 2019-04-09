@@ -1,4 +1,4 @@
-<h1><img src="resources/icon.png" height="64" width="64"/> Chrome-Extension-Behind-The-Asterisks</h1>
+<h1><img src="resources/icon.png" height="64" width="64"/> Behind-The-Asterisks</h1>
 
 <h2>Reveal What Is Behind The Asterisks Of A Password On Mouse Hover.</h2>
 
@@ -10,7 +10,7 @@
 
 I think hiding a password behind "*" on YOUR OWN PC is rather pointless.
 
-so I've wrote this Chrome extension to help me copy & paste, 
+so I've wrote this web-extension to help me copy & paste, 
 or edit long passwords very easily,
 
 and once you move your mouse-cursor away, it's hidden again!
@@ -32,7 +32,7 @@ https://github.com/eladkarako/Chrome-Extension-Behind-The-Asterisks/issues
 <pre>
 Developer's HUB / Changelog
 
-4.0.2.5
+4.0.2.6
 * improving cross-browser-API compatibility.
 
 4.0.2.4
