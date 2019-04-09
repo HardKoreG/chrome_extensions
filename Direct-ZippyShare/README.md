@@ -1,4 +1,4 @@
-<h1><img alt="" src="resources/icon.png" height="64" width="64"/> Chrome-Extension-ZippyShare-Direct &nbsp; - &nbsp; <a href="https://paypal.me/e1adkarak0"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal Donation"></a></h1>
+<h1><img alt="" src="resources/icon.png" height="64" width="64"/> Direct-ZippyShare</h1>
 
 Rewrite the download button <br/>
 with the real download-link, <br/>

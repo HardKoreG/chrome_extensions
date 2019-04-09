@@ -52,7 +52,7 @@
 <br/><a href="Unsecure/"                    ><img alt="" width="32" height="32" src="Unsecure/resources/icon.png"                    /> Unsecure</a>
 <br/><a href="UserAgent/"                   ><img alt="" width="32" height="32" src="UserAgent/resources/icon.png"                   /> UserAgent</a>
 <br/><a href="YouTube-Source/"              ><img alt="" width="32" height="32" src="YouTube-Source/resources/icon.png"              /> YouTube-Source</a>
-<br/><a href="ZippyShare-Direct/"           ><img alt="" width="32" height="32" src="ZippyShare-Direct/resources/icon.png"           /> ZippyShare-Direct</a>
+<br/><a href="Direct-ZippyShare/"           ><img alt="" width="32" height="32" src="Direct-ZippyShare/resources/icon.png"           /> Direct-ZippyShare</a>
 
 <hr/>
 
