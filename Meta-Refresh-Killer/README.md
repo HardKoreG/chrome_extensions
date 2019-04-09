@@ -73,6 +73,9 @@ github.com/eladkarako/Chrome-Extension-Meta-Refresh-Killer
 <pre>
 Developer's HUB / Changelog
 
+3.1.1.10
+* making the messages.json Mozilla-server-friendly without 'opening-tag' character (using Unicode value instead).
+
 3.1.1.9
 * improving cross-browser-API compatibility.
 
