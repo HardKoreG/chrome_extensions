@@ -16,6 +16,9 @@ Will Work Everywhere! (eBay, Amazon, WordPress, Blogger,...)
 <pre>
 Developer's HUB / Changelog
 
+8.0.2.7
++ adding support for images with data-img-src markup for the real image.
+
 8.0.2.6
 * improving cross-browser-API compatibility.
 
