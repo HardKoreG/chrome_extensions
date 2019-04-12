@@ -1,5 +1,7 @@
 <h1><img src="resources/icon.png" height="64" width="64"/> HTTPS-Fix</h1>
 
+Fixes <a href="https://developer.mozilla.org/en-US/docs/Web/Security/Mixed_content">mixed-content cases</a> by trying to load them from HTTPS instead.
+
 It looks for videos, iframes, images, css-links and other stuff,
 on badly programmed pages, that loaded from HTTPS location, but still uses hard-coded HTTP prefix URLs,
 Then it fixes the URL so it won't raise an error in your browser,
