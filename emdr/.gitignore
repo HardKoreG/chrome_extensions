@@ -1,0 +1,4 @@
+resources/resources/*
+resources/index.html
+
+!resources/resources/.placeholder
