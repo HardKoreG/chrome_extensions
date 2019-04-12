@@ -19,6 +19,8 @@ more information at https://github.com/eladkarako/emdr/ .
 
 Difference from https://github.com/eladkarako/emdr/blob/master/index.html <br/>
 the following part: 
+<ol>
+<li>
 
 ```html
 <!-- ╔════════════════════╗
@@ -30,6 +32,15 @@ the following part:
 
 was removed since web-extensions have default <code>Content Security Policy</code> that forbids (by default) opening a BASE64-encoded script, <br/>
 and I don't want to override the definition (although possible).
+</li>
+<li>
+In-order to keep the extension-size small, the audio is limited to MP3 and OGG, <br/>
+removing the M4A and OPUS files. 
+The MP3+OGG are still about ~24MB.
+
+The HTML-markup in the index.html was modified as-well to exclude them.
+</li>
+</ol>
 
 <hr/>
 
