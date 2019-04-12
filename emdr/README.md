@@ -1,7 +1,7 @@
 <h1><img src="resources/icon.png" height="64" width="64"/> EMDR</h1>
 
 A web-based EMDR training exercise, <br/>
-with optional binural audio, <br/>
+with optional binaural audio, <br/>
 taken from https://github.com/eladkarako/emdr/ <br/>
 in a form of a web-extension for Chrome and Firefox, <br/>
 available for both desktop and mobile-phones, <br/>
@@ -13,6 +13,11 @@ Clicking the icon will open the EMDR training exercise in a new-tab, <br/>
 or switch to an already opened tab of the EMDR training exercise. <br/>
 There is a hidden button to go to full-screen on the top left-corner and <br/>
 a hidden audio-player for a binural-audio slightly to the right of the button. <br/>
+
+<img src="resources/screenshot_1.png" /> <br/>
+<img src="resources/screenshot_2.png" /> <br/>
+<img src="resources/screenshot_3.png" /> <br/>
+
 more information at https://github.com/eladkarako/emdr/ .
 
 <hr/>
