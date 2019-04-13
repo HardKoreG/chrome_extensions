@@ -53,6 +53,12 @@ The HTML-markup in the index.html was modified as-well to exclude them.
 Developer's HUB / Changelog
 
 
+1.0.0.2
++ add the main web-page as 'option' page which is another-way of opening it with Firefox/Chrome.
+* using 'active:true' (newer) instead of 'selected:true' (older) since Firefox does not support it in 'tabs.update' and 'tabs.create'.
+* fixed favicon location.
+* fixed URLs used in 'background.js' to use relative URLs to the main-page, since resolving the URL to a fully-qualified-URL and using it in 'tabs.create' results (in Firefox) with wrong URL (Firefox adds the UUID again, two total to the URL, just like it was relative, probably a Firefox bug. Nevermind relative paths works-around it).
+
 1.0.0.1
 + initial.
 </pre>

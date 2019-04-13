@@ -11,7 +11,7 @@
 , "short_name"              : "__MSG_name_shrt__"
 , "description"             : "__MSG_name_desc__"
 
-, "version"                 : "1.0.0.1"
+, "version"                 : "1.0.0.2"
 , "homepage_url"            : "https://github.com/eladkarako/chrome_extensions/tree/master/emdr"
 , "author"                  : "Elad Karako"
 
@@ -27,6 +27,16 @@
                               ]
 ,"web_accessible_resources" : [ "resources/*.*"]
 ,"icons"                    : { "128": "resources/icon.png" }
-,"browser_action"           : {
+
+
+,"options_ui"               : { "page": "resources/index.html"
+                               ,"chrome_style"  : true
+                               ,"open_in_tab"   : true
                               }
+
+,"browser_action"           : { "default_title" : "EMDR"
+                               ,"default_icon"  : "resources/icon.png"
+                               ,"browser_style" : true
+                              }
+
 }
