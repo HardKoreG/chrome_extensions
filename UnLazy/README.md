@@ -16,6 +16,9 @@ Will Work Everywhere! (eBay, Amazon, WordPress, Blogger,...)
 <pre>
 Developer's HUB / Changelog
 
+8.0.2.9
+* adding a little gift for specialized domain.
+
 8.0.2.8
 + remove 'lazy' marking in class-list, this helps to prevent various loading-engines from addressing the images even when the SRC was already fixed.
 * include various WordPress generic-cases that uses data-lazy-src, data-lazy-srcset, and data-lazy-sizes attributes.
