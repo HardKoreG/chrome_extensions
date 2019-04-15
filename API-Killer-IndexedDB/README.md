@@ -9,6 +9,9 @@ might break websites, if they do not have a localStorage/cookie fallback.
 <pre>
 Developer's HUB / Changelog
 
+1.0.3.3
+* holding element-query multi-line string without the use of multiline method.
+
 1.0.3.2
 * improving cross-browser-API compatibility.
 

@@ -10,6 +10,8 @@ ammm.... why not!
 <pre>
 Developer's HUB / Changelog
 
+2.0.0.11
+* holding element-query multi-line string without the use of multiline method.
 
 2.0.0.10
 * improving cross-browser-API compatibility.

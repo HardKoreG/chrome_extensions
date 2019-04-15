@@ -47,6 +47,9 @@ to your command-line for <code>chrome.exe</code>.
 <pre>
 Developer's HUB / Changelog
 
+5.0.3.6
+* holding element-query multi-line string without the use of multiline method.
+
 5.0.3.5
 * fix badge not showing in Firefox by allow a better cross-browser-API - use either 'chrome.' (Google syntax) or 'browser.' (Firefox syntax).
 + force restricted variant of JavaScript (strict mode).

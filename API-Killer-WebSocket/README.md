@@ -29,6 +29,9 @@
 <pre>
 Developer's HUB / Changelog
 
+1.0.2.8
+* holding element-query multi-line string without the use of multiline method.
+
 1.0.2.7
 * improving cross-browser-API compatibility.
 

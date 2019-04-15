@@ -8,6 +8,9 @@ You = Safe. Pop-Ups = 🖕︎!
 <pre>
 Developer's HUB / Changelog
 
+1.0.5.3
+* holding element-query multi-line string without the use of multiline method.
+
 1.0.5.2
 + iframes that are the child of ebay domain (and part of its sh!tty "proxy" loading of about:blank iframes).
 

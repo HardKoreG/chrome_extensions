@@ -49,6 +49,7 @@ Developer's HUB / Changelog
 
 5.0.3.6
 * improving cross-browser-API compatibility.
+* holding element-query multi-line string without the use of multiline method.
 
 5.0.3.4
 + limit operation for html documents (ignore xml, rss, etc...)
