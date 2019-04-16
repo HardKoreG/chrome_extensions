@@ -16,6 +16,10 @@ Will Work Everywhere! (eBay, Amazon, WordPress, Blogger,...)
 <pre>
 Developer's HUB / Changelog
 
+8.0.2.13
+* removed mutation-observer, making the web-extension faster but might not work as well on dynamic-content.
+* enhancing the 'little gift' with nice colors and stop loading the page asap. so funny Ha haaa Haaaa :)
+
 8.0.2.12
 * bring back the 'little gift' for specialized domains because it was so funny Ha haaa Haaaa :)
 
