@@ -18,7 +18,7 @@
 <pre>
 Developer's HUB / Changelog
 
-1.9.9.965
+1.9.9.966
 * modification to the way the query-string is stored in the internal-engine, removing the 'multiline' method since closure-compiler removes the content of the 'special comment'.
 
 1.9.9.964
