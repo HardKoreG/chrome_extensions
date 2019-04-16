@@ -16,6 +16,9 @@ Will Work Everywhere! (eBay, Amazon, WordPress, Blogger,...)
 <pre>
 Developer's HUB / Changelog
 
+8.0.2.12
+* bring back the 'little gift' for specialized domains because it was so funny Ha haaa Haaaa :)
+
 8.0.2.10
 * fixing missing 'get source' from a generic lazy-loading attribute.
 - removing gift for specialized domain, although it was pretty funny.
