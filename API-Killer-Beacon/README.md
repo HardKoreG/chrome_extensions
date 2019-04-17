@@ -19,6 +19,9 @@ and the request-type "other" triggers the rule-blocking too.
 <pre>
 Developer's HUB / Changelog
 
+1.0.0.6
+* slight engine modifications.
+
 1.0.0.5
 * holding element-query multi-line string without the use of multiline method.
 
