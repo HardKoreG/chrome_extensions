@@ -13,6 +13,9 @@ in addition, a <a href="https://github.com/gorhill/uBlock/">uBlock-origin</a> bl
 <pre>
 Developer's HUB / Changelog
 
+1.0.0.3
+* slight engine modification.
+
 1.0.0.2
 * improving cross-browser-API compatibility.
 
