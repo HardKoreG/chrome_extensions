@@ -12,6 +12,9 @@ For Disabling SPF, JS-Navigation and other dynamic page loading that uses the Hi
 <pre>
 Developer's HUB / Changelog
 
+1.0.3.8
+* slight engine modifications.
+
 1.0.3.7
 * improving cross-browser-API compatibility.
 
