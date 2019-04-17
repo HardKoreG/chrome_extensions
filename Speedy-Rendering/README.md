@@ -32,6 +32,10 @@ Known issues, or more like an undesired side-effects
 Developer's HUB / Changelog
 
 
+2.0.4.6
+* allow for android app - re-allow touch in various methods (saves 300ms click delay too!).
+* allow for android app - re-allow zoom.
+
 2.0.4.5
 + add vendor-specific variations to the CSS rules.
 
