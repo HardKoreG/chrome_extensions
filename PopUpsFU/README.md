@@ -8,6 +8,9 @@ You = Safe. Pop-Ups = 🖕︎!
 <pre>
 Developer's HUB / Changelog
 
+1.0.5.4
+* adding support for badge.
+
 1.0.5.3
 * holding element-query multi-line string without the use of multiline method.
 
