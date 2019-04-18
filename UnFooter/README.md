@@ -11,6 +11,9 @@ this is a light-weight alternative that simply hides the footer-elements.
 <pre>
 Developer's HUB / Changelog
 
+1.0.0.2
+* ungeneric id/class names for prevent from removing non-footer-areas.
+
 1.0.0.1
 + initial.
 </pre>
