@@ -47,6 +47,7 @@
 <br/><a href="SpellCheck-Enabler/"          ><img alt="" width="32" height="32" src="SpellCheck-Enabler/resources/icon.png"          /> SpellCheck-Enabler</a>
 <br/><a href="SPF-Killer/"                ><img alt="" width="32" height="32" src="SPF-Killer/resources/icon.png"                /> SPF-Killer</a>
 <br/><a href="Tahoma-CourierNew/"           ><img alt="" width="32" height="32" src="Tahoma-CourierNew/resources/icon.png"           /> Tahoma-CourierNew</a>
+<br/><a href="UnFooter/"                     ><img alt="" width="32" height="32" src="UnFooter/resources/icon.png"                     /> UnFooter</a>
 <br/><a href="Unicode/"                     ><img alt="" width="32" height="32" src="Unicode/resources/icon.png"                     /> Unicode</a>
 <br/><a href="UnLazy/"                      ><img alt="" width="32" height="32" src="UnLazy/resources/icon.png"                      /> UnLazy</a>
 <br/><a href="Unsecure/"                    ><img alt="" width="32" height="32" src="Unsecure/resources/icon.png"                    /> Unsecure</a>
