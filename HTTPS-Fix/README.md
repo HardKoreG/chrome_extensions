@@ -21,6 +21,10 @@ To-Do: add a ""server-side"" (meaning extension, but not client-side) blocking o
 <pre>
 Developer's HUB / Changelog
 
+1.0.0.5
+- removing leftover CSS-styles from copying the folder from XDA.
+* changing the icon.
+
 1.0.0.4
 * improving cross-browser-API compatibility.
 
