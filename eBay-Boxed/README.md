@@ -29,6 +29,14 @@ Or even report a bug or suggest an improvement at https://github.com/eladkarako/
 <pre>
 Developer's HUB / Changelog
 
+1.0.3.1
+* re-wrote the engine/filenames to be similar to the other web-extensions.
++ adding badge with total of IFRAME worked on.
++ generalised the web-extension to support multiple IFRAMEs to work on.
+* moving action-method to start early (this also generate the IFRAME faster).
+* moving applied styles to start early.
+* making-sure the IFRAME always loads-up from HTTPS.
+
 1.0.2.3
 * improving cross-browser-API compatibility.
 
