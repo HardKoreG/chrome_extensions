@@ -1,6 +1,6 @@
-<h1><img src="resources/icon.png" height="64" width="64"/> Pleasent-Webs</h1>
+<h1><img src="resources/icon.png" height="64" width="64"/> Pleasant-Web</h1>
 
-<h3>★★★★★ Pure CSS, Mini AdBlock to make the web more pleasent.</h3>
+<h3>★★★★★ Pure CSS, Mini AdBlock to make the web more pleasant.</h3>
 
 A collection of CSS-Rules, which are quite generic but pretty-darn complex to (semi-)heuristically clear large amount of junk from web-pages, 
 without the need of an additional JavaScript solution.
@@ -35,7 +35,7 @@ and you only want to remove few annoying visual elements from the screen...
 - hide donation links, PayPal and such.
 - hide newsletter-boxes and email-signin areas on pages.
 - hide silverlight errors on pages(a bit old but still useful).
-- hide footer areas, this is the same as installing the footer web-extension so if you've install this one you can remove it.
+- hide footer areas, this is the same as installing the footer web-extension: https://addons.mozilla.org/en-GB/firefox/addon/unfooter/ - so if you've install this one you can remove it.
 
 <pre>
 Developer's HUB / Changelog
