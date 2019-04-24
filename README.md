@@ -38,6 +38,7 @@
 <br/><a href="Nothing/"                     ><img alt="" width="32" height="32" src="Nothing/resources/icon.png"                     /> Nothing</a>
 <br/><a href="Noto/"                        ><img alt="" width="32" height="32" src="Noto/resources/icon.png"                        /> Noto</a>
 <br/><a href="Pandora-Text-Select-Enabler/" ><img alt="" width="32" height="32" src="Pandora-Text-Select-Enabler/resources/icon.png" /> Pandora-Text-Select-Enabler</a>
+<br/><a href="Pleasent-Web/"                ><img alt="" width="32" height="32" src="Pleasent-Web/resources/icon.png"                /> Pleasent-Web</a>
 <br/><a href="PopUpsFU/"                    ><img alt="" width="32" height="32" src="PopUpsFU/resources/icon.png"                    /> PopUpsFU</a>
 <br/><a href="Real-URL/"                    ><img alt="" width="32" height="32" src="Real-URL/resources/icon.png"                    /> Real-URL</a>
 <br/><a href="Redundant-Click/"             ><img alt="" width="32" height="32" src="Redundant-Click/resources/icon.png"             /> Redundant-Click</a>
