@@ -10,11 +10,14 @@ You will get your content very fast, and your page will react faster to scroll a
 
 <img alt="" src="resources/screenshot_2.png"/>
 
-
 Will Work Everywhere! (eBay, Amazon, WordPress, Blogger,...)
 
 <pre>
 Developer's HUB / Changelog
+
+8.0.2.14
+* removing the 'little gift' because the impolite review (https://addons.mozilla.org/en-GB/firefox/addon/unlazy/reviews/1317920/ : 1/5 and demanding support) was removed by 'caitmuenster'. Thanks!
+* since matched-patterns are SRC based and not using SRCSET, I've 'empty-string'ed the SRCSET variable, in-one case the WordPress lazy-loading has set the SRCSET as well with a 1x1 temp. image, bug fixed with the help of this support-request from a Mozilla-review: https://addons.mozilla.org/en-GB/firefox/addon/unlazy/reviews/1322140/ . Thanks!
 
 8.0.2.13
 * removed mutation-observer, making the web-extension faster but might not work as well on dynamic-content.
