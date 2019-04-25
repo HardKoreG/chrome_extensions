@@ -47,7 +47,7 @@ to your command-line for <code>chrome.exe</code>.
 <pre>
 Developer's HUB / Changelog
 
-5.0.3.7
+5.0.3.8
 * holding element-query multi-line string without the use of multiline method.
 
 5.0.3.5
