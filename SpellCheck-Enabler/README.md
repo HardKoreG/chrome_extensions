@@ -47,7 +47,7 @@ to your command-line for <code>chrome.exe</code>.
 <pre>
 Developer's HUB / Changelog
 
-5.0.3.7
+5.0.3.8
 * slight engine modification.
 
 5.0.3.6
