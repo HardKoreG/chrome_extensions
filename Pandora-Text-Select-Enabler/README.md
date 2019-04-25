@@ -14,7 +14,7 @@
 <pre>
 Developer's HUB / Changelog
 
-4.0.3.3
+4.0.3.4
 * improving cross-browser-API compatibility.
 
 4.0.3.2
