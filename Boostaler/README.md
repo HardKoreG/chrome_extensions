@@ -24,7 +24,7 @@ stale in <code>Cache-Control</code> header: <a href="https://tools.ietf.org/html
 <pre>
 Developer's HUB / Changelog
 
-2.0.9.3
+2.0.9.4
 * restricted variant modification fix.
 
 2.0.9.2
