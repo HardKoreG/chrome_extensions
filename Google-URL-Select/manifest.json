@@ -24,7 +24,7 @@
 , "content_scripts"         : [ {"css": [ "resources/at_document_start.css" ], "all_frames": true, "match_about_blank": true, "matches": [ "*://*/search*" ], "run_at": "document_start" }
                               ]
 ,"web_accessible_resources" : [ "resources/*.*"]
-,"icons"                    : { "512": "resources/icon.png" }
+,"icons"                    : { "128": "resources/icon.png" }
 ,"browser_action"           : {
                               }
 }

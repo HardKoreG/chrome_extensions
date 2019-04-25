@@ -31,7 +31,7 @@
 ,"web_accessible_resources" : [ "resources/*.*"
                               , "resources/fonts/*.ttf"
                               ]
-,"icons"                    : { "512": "resources/icon.png" }
+,"icons"                    : { "128": "resources/icon.png" }
 ,"browser_action"           : {
                               }
 }
