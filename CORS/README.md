@@ -12,7 +12,7 @@
 <pre>
 Developer's HUB / Changelog
 
-2.0.0.4
+2.0.0.5
 * improving cross-browser-API compatibility.
 
 2.0.0.2
