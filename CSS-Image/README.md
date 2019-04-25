@@ -10,6 +10,9 @@ ammm.... why not!
 <pre>
 Developer's HUB / Changelog
 
+2.0.0.13
+* register fewer events, and only on window, favoring a later (bubbled) reaction.
+
 2.0.0.12
 * fix strict-mode related issues.
 
