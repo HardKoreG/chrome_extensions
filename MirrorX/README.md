@@ -6,7 +6,8 @@
 
 - Use for whatever reason you like to.
 
-- I use it on a tablet or laptop, and put it in my car, so it is reflected against the windshield (front glass window) and it is displayed correctly (mirrored again by the windshield), effectively HUD. Naturally you'll need the desktop version of Chrome otherwize you won't be able to install the extension.
+- I use it your phone or on a tablet or laptop, and put it in my car, so it is reflected against the windshield (front glass window) and it is displayed correctly (mirrored again by the windshield), effectively HUD, 
+and you don't need to hold the device. Naturally you'll need the desktop version of Chrome otherwize you won't be able to install the extension.
 
 - You may also try using <code>./chrome --load-extension=path/to/one/extension,path/to/another/extension</code> to load this extension, unpacked or as crx form, it might work too, so you'll have it in your phone.
 
