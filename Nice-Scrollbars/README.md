@@ -1,6 +1,6 @@
 <h1><img src="resources/icon.png" height="64" width="64"/> Chrome-Extension-Nice-Scrollbars</h1>
 
-<h2>★★★★★ Professional Design. 👔︎</h2>
+<h2>★★★★★ Pure CSS, Clean Design For The Scrollbars. 👔︎</h2>
 
 <img height="400" width="640" src="resources/screenshot_1.png"/>
 
