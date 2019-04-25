@@ -16,6 +16,9 @@ and you don't need to hold the device. Naturally you'll need the desktop version
 <pre>
 Developer's HUB / Changelog
 
+1.0.0.3
+updated description.
+
 1.0.0.2
 moved the CSS rules to the very start of the rendering-phase instead of the 'onload'-phase.
 
