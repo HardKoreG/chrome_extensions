@@ -32,7 +32,7 @@ https://github.com/eladkarako/Chrome-Extension-Behind-The-Asterisks/issues
 <pre>
 Developer's HUB / Changelog
 
-4.0.2.6
+4.0.2.7
 * improving cross-browser-API compatibility.
 
 4.0.2.4
