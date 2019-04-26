@@ -12,6 +12,9 @@ For Disabling SPF, JS-Navigation and other dynamic page loading that uses the Hi
 <pre>
 Developer's HUB / Changelog
 
+1.0.3.9
+* improved SRC storage as a non-whitespace string, for the JavaScript-injection.
+
 1.0.3.8
 * slight engine modifications.
 
