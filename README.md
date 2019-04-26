@@ -2,11 +2,12 @@
 
 <br/><a href="012MobileLoader/"             ><img alt="" width="32" height="32" src="012MobileLoader/resources/icon.png"             /> 012MobileLoader</a>
 <br/><a href="AndroidFileHost-Fix/"         ><img alt="" width="32" height="32" src="AndroidFileHost-Fix/resources/icon.png"         /> AndroidFileHost-Fix</a>
-<br/><a href="API-Killer-Beacon/"           ><img alt="" width="32" height="32" src="API-Killer-Beacon/resources/icon.png"          /> API-Killer-Beacon</a>
-<br/><a href="API-Killer-History/"          ><img alt="" width="32" height="32" src="API-Killer-History/resources/icon.png"        /> API-Killer-History</a>
-<br/><a href="API-Killer-IndexedDB/"        ><img alt="" width="32" height="32" src="API-Killer-IndexedDB/resources/icon.png"            /> API-Killer-IndexedDB</a>
-<br/><a href="API-Killer-WebAssembly/"      ><img alt="" width="32" height="32" src="API-Killer-WebAssembly/resources/icon.png"    /> API-Killer-WebAssembly</a>
-<br/><a href="API-Killer-WebSocket/"        ><img alt="" width="32" height="32" src="API-Killer-WebSocket/resources/icon.png"               /> API-Killer-WebSocket</a>
+<br/><a href="API-Killer-Beacon/"           ><img alt="" width="32" height="32" src="API-Killer-Beacon/resources/icon.png"           /> API-Killer-Beacon</a>
+<br/><a href="API-Killer-History/"          ><img alt="" width="32" height="32" src="API-Killer-History/resources/icon.png"          /> API-Killer-History</a>
+<br/><a href="API-Killer-IndexedDB/"        ><img alt="" width="32" height="32" src="API-Killer-IndexedDB/resources/icon.png"        /> API-Killer-IndexedDB</a>
+<br/><a href="API-Killer-Storage/"          ><img alt="" width="32" height="32" src="API-Killer-Storage/resources/icon.png"          /> API-Killer-Storage</a>
+<br/><a href="API-Killer-WebAssembly/"      ><img alt="" width="32" height="32" src="API-Killer-WebAssembly/resources/icon.png"      /> API-Killer-WebAssembly</a>
+<br/><a href="API-Killer-WebSocket/"        ><img alt="" width="32" height="32" src="API-Killer-WebSocket/resources/icon.png"        /> API-Killer-WebSocket</a>
 <br/><a href="APK-S-Direct/"                ><img alt="" width="32" height="32" src="APK-S-Direct/resources/icon.png"                /> APK-S-Direct</a>
 <br/><a href="AriaFix/"                     ><img alt="" width="32" height="32" src="AriaFix/resources/icon.png"                     /> AriaFix</a>
 <br/><a href="AutoComplete-Enabler/"        ><img alt="" width="32" height="32" src="AutoComplete-Enabler/resources/icon.png"        /> AutoComplete-Enabler</a>
@@ -14,7 +15,7 @@
 <br/><a href="Boostaler/"                   ><img alt="" width="32" height="32" src="Boostaler/resources/icon.png"                   /> Boostaler</a>
 <br/><a href="CORS/"                        ><img alt="" width="32" height="32" src="CORS/resources/icon.png"                        /> CORS</a>
 <br/><a href="CSS-Image/"                   ><img alt="" width="32" height="32" src="CSS-Image/resources/icon.png"                   /> CSS-Image</a>
-<br/><a href="Direct-CNET/"                 ><img alt="" width="32" height="32" src="Direct-CNET/resources/icon.png"         /> Direct-CNET</a>
+<br/><a href="Direct-CNET/"                 ><img alt="" width="32" height="32" src="Direct-CNET/resources/icon.png"                 /> Direct-CNET</a>
 <br/><a href="Direct-FileHippo/"            ><img alt="" width="32" height="32" src="Direct-FileHippo/resources/icon.png"            /> Direct-FileHippo</a>
 <br/><a href="Direct-SourceForge/"          ><img alt="" width="32" height="32" src="Direct-SourceForge/resources/icon.png"          /> Direct-SourceForge</a>
 <br/><a href="eBay-Boxed/"                  ><img alt="" width="32" height="32" src="eBay-Boxed/resources/icon.png"                  /> eBay-Boxed</a>
@@ -46,9 +47,9 @@
 <br/><a href="Smooth-Scroll/"               ><img alt="" width="32" height="32" src="Smooth-Scroll/resources/icon.png"               /> Smooth-Scroll</a>
 <br/><a href="Speedy-Rendering/"            ><img alt="" width="32" height="32" src="Speedy-Rendering/resources/icon.png"            /> Speedy-Rendering</a>
 <br/><a href="SpellCheck-Enabler/"          ><img alt="" width="32" height="32" src="SpellCheck-Enabler/resources/icon.png"          /> SpellCheck-Enabler</a>
-<br/><a href="SPF-Killer/"                ><img alt="" width="32" height="32" src="SPF-Killer/resources/icon.png"                /> SPF-Killer</a>
+<br/><a href="SPF-Killer/"                ><img alt="" width="32" height="32" src="SPF-Killer/resources/icon.png"                    /> SPF-Killer</a>
 <br/><a href="Tahoma-CourierNew/"           ><img alt="" width="32" height="32" src="Tahoma-CourierNew/resources/icon.png"           /> Tahoma-CourierNew</a>
-<br/><a href="UnFooter/"                     ><img alt="" width="32" height="32" src="UnFooter/resources/icon.png"                     /> UnFooter</a>
+<br/><a href="UnFooter/"                     ><img alt="" width="32" height="32" src="UnFooter/resources/icon.png"                   /> UnFooter</a>
 <br/><a href="Unicode/"                     ><img alt="" width="32" height="32" src="Unicode/resources/icon.png"                     /> Unicode</a>
 <br/><a href="UnLazy/"                      ><img alt="" width="32" height="32" src="UnLazy/resources/icon.png"                      /> UnLazy</a>
 <br/><a href="Unsecure/"                    ><img alt="" width="32" height="32" src="Unsecure/resources/icon.png"                    /> Unsecure</a>
