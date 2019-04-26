@@ -9,6 +9,10 @@ might break websites, if they do not have a localStorage/cookie fallback.
 <pre>
 Developer's HUB / Changelog
 
+1.0.3.5
+* improving blocking with some 'Object.defineProperty' to work-around 'readonly' objects.
+* changed the way SRC was stored and injected to the DOM.
+
 1.0.3.4
 * slight engine modifications.
 
