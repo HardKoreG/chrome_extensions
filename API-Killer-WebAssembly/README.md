@@ -13,6 +13,9 @@ in addition, a <a href="https://github.com/gorhill/uBlock/">uBlock-origin</a> bl
 <pre>
 Developer's HUB / Changelog
 
+1.0.0.4
+* fixed the way the JavaScript is injected to the DOM for faster, no line-breaks, works better across-OS.
+
 1.0.0.3
 * slight engine modification.
 
