@@ -19,6 +19,9 @@ and the request-type "other" triggers the rule-blocking too.
 <pre>
 Developer's HUB / Changelog
 
+1.0.0.7
+* faster JavaScript-injection by storing the SRC of the api_killer_beacon as string before usage.
+
 1.0.0.6
 * slight engine modifications.
 
