@@ -21,6 +21,9 @@ some of the browser components might also suffer. I'm ~~pretty sure the browser-
 <pre>
 Developer's HUB / Changelog
 
+1.0.3.5
+* modifying SRC variable for better compatibility.
+
 1.0.3.4
 + initial.
 </pre>
