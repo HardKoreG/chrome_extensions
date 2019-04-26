@@ -29,6 +29,9 @@
 <pre>
 Developer's HUB / Changelog
 
+1.0.2.10
+* changed the way the SRC is stored internally, instead of using the content of the 'api_killer_websocket' function dynamically, simply put the string there as it is, which seems to run faster and is more compatible with whitespace across OS.
+
 1.0.2.9
 * slight engine modification.
 
