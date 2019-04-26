@@ -40,6 +40,9 @@ and you only want to remove few annoying visual elements from the screen...
 <pre>
 Developer's HUB / Changelog
 
+1.0.0.2
++ blocking more cookie-notification signatures.
+
 1.0.0.1
 + initial.
 </pre>
